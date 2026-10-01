@@ -1,5 +1,5 @@
 Awase Khirni Syed 
-Few thoughts on incorporting strategies to build a platform
+Few thoughts on incorporating strategies to build a platform
 1. How do the hidden rules of money and ownership quietly shift control of our homes, jobs and future innovations away from everyday communities, and into the hands of a small, interconnected network of institutions?
   --the invisible gravity of debt (fractional reserve banking system)
   --private equity(pe) - the financialization of daily life 
@@ -13,4 +13,15 @@ Few thoughts on incorporting strategies to build a platform
 
 5. What strategies can be applied to use OpenCorporates data to trace subsidiary ownership chains, ICIJ Offshore leaks database (FINCEN files, Panama papers etc..)
 
-6. Can SEC FORM 13F and 13G be used to track what publicly traded assets massive institutional investors are accumulateing quarterly?
+6. Can SEC FORM 13F and 13G be used to track what publicly traded assets massive institutional investors are accumulating quarterly?
+
+7 How to track monitoring deal terms such as "sale-lease back" transactions ( a company sells its real estate to a PE firm and rents it back, a classic extraction tactic).Pitchbook, curnchbase, preqin to track to some extent 
+8.How to track PE owned company declares bankruptcy (PACER in the US) reveal how much debt was loaded onto the company and how much the PE firm extracted in "dividend recapitalizations" before the collapse
+
+8. how to track lobbying expenditures by major financial firms and campaign contributions?
+9. Propublica revolving door database provides which regulators left governement to work for the banks or PE firms they once oversaw. 
+
+
+10. How can CDFIs (community development financial institutions), credit unions, and worker cooperatives help immigrant and empower them. 
+
+ - build a powerful, open source tool to map corporate ownership, tracking every transaction, regulatory, private, purchase, procurement, supply chain, sourcing, consumer data correlated would 
