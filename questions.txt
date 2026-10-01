@@ -1,1 +1,16 @@
+Awase Khirni Syed 
+Few thoughts on incorporting strategies to build a platform
+1. How do the hidden rules of money and ownership quietly shift control of our homes, jobs and future innovations away from everyday communities, and into the hands of a small, interconnected network of institutions?
+  --the invisible gravity of debt (fractional reserve banking system)
+  --private equity(pe) - the financialization of daily life 
+  -- venture capital (vc) - the gatekeeping of tommorrow
 
+2. What strategies can we apply to track the money? How do we create systems that track macroeconomic data with micro-level corporate records?
+
+3. How to track monitor the federal reserve's Z.1 financial accounts of every country? Since traditional fractional banking has now shifted to shadow banking /private credit which has exploded as PE firms lend directly to companies to avoid bank regulations.
+
+4. What strategies can be used to map corporate ownership and interlocking networks? for example: a real estate asset might be owned by an LLC, which is owned by a fund, which is managed by a PE firm, which is backed by a soverign wealth fund 
+
+5. What strategies can be applied to use OpenCorporates data to trace subsidiary ownership chains, ICIJ Offshore leaks database (FINCEN files, Panama papers etc..)
+
+6. Can SEC FORM 13F and 13G be used to track what publicly traded assets massive institutional investors are accumulateing quarterly?
