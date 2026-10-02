@@ -25,3 +25,27 @@ Few thoughts on incorporating strategies to build a platform
 10. How can CDFIs (community development financial institutions), credit unions, and worker cooperatives help immigrant and empower them. 
 
  - build a powerful, open source tool to map corporate ownership, tracking every transaction, regulatory, private, purchase, procurement, supply chain, sourcing, consumer data correlated would 
+
+
+Friday Oct 2nd 2026.
+Social Science Research Network + Institutional Trading 
+1. Do institutional investors possess superior market or sector timing skills and how does their trading of exchange -traded funds (ETFs) correlate with subsequent market performance and volatility?
+
+2. How does market uncertainty affect the holding periods, profit generation, and selling patterns (such as the intensification of the disposition effect) of institutional investors when trading high-uncertainty stocks?
+
+3. How does decomposing instituional trading into decision based trades (active portfolio adjustments) reveal the persistence of informational advantages among top-performing institutions?
+
+4. How can we build a platform that draws real-time correlation between SSRN and Institutional Trading to help build a transparent investing strategy for the common man?
+
+5. How do institutional trading strategies, particularly the roles of foreign institutional investors (FIIs) as momentum traders and domestic institutional investors (DIIs) as liquidity suppliers, shift during financial crises in emerging markets?
+6.What is the optimal sequence of child orders (market vs. limit orders) for an institutional trader executing a parent order, and how does "dynamic aggressiveness" adapt to a fund manager's risk aversion and private information?
+
+7. To what extent do institutional investors trade on material private information prior to take  over rumours, and how does their pre-rumor trading predict which firms will eventually receive formal bid proposals?
+
+8. How do institutional investors exploit post-earnings announcement drift (pead) in emerging markets like china, india, middle east and how does the quality of local information environment restrict their ability to accelerate price discovery?
+
+9. under what market conditions (e.g., high noise trading volume or high noise to signal ratios) can naive individual investors outperform institutional investors, and how does the aggressive trading of naive investors force institutions to reduce their trading aggressiveness due to price impact?
+
+10. How can continuous institutional equity ownership and trading strategies be accurately inferred from high-frequency transaction data (e.g., trade size categories on high-volume vs. high-volatility days) to overcome the limitations of quarterly regulatory reporting?
+
+11.How does institutional order flow particularly from foreign instituonal investors, serve as a channel for transmitting contrarian or momentum news from developed markets to emerging equity markets during periods of global financial stress?
